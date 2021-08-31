@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: 小五笔 86 版
 ---
 
