@@ -1,5 +1,7 @@
-# 小五笔 86 版
-
+---
+layout: post
+title: 小五笔 86 版
+---
 
 ## 应用简介
 
@@ -13,7 +15,7 @@
 
 感谢您的使用，祝您学有所成！
 
----
+
 
 ## 联系方式
 
@@ -21,8 +23,12 @@
 
 微信公众号：Haomissyou
 
----
+
 
 ## 应用截图
+
+![_config.yml]({{ site.baseurl }}/images/xwubi86-1.png)
+
+![_config.yml]({{ site.baseurl }}/images/xwubi86-2.png)
 
 
