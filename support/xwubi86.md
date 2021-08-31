@@ -3,6 +3,8 @@ layout: page
 title: 小五笔 86 版
 ---
 
+![_config.yml]({{ site.baseurl }}/images/xwubi86-logo.png)
+
 ## 应用简介
 
 作为 小五笔-XWbui 的简化版，只保留了最核心的功能。
